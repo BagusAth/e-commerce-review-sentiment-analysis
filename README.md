@@ -1,4 +1,4 @@
-# Analisis Sentimen Ulasan E-commerece(Yelp) Menggunakan IBM Granite
+# Analisis Sentimen Ulasan Yelp(E-commerece) Menggunakan IBM Granite
 
 ## 📜 Project Overview
 
