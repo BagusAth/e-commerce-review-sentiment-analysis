@@ -19,7 +19,7 @@ Proyek ini bertujuan untuk membangun sebuah alur kerja analisis data untuk mengk
 
 Dataset yang digunakan dalam proyek ini adalah **Yelp Reviews Full**. Dataset ini bersifat publik dan dapat diakses melalui Hugging Face.
 
-* **Sumber:** [Yelp Review Full Dataset on Hugging Face](https://huggingface.co/datasets/yelp_review_full)
+* **Sumber:** [Yelp Review Full Dataset on Hugging Face](https://huggingface.co/datasets/Yelp/yelp_review_full)
 
 ## 💡 Insight & Findings
 Berikut adalah temuan-temuan utama yang dihasilkan oleh AI setelah menganalisis ringkasan data sentimen:
